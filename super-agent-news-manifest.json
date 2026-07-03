@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[digg.com](https://digg.com/tech/21ho5c7b)",
+    "[bestaiagent.app](https://bestaiagent.app/ai-agents/folk/)",
+    "[rohitraj.tech](https://rohitraj.tech/en/notes/gemini-computer-use-vs-claude-openai-2026)",
+    "[blog.google](https://blog.google)",
+    "[theeditorial.news](https://theeditorial.news/ai-agents/anthropic-computer-use-openai-operator-google-mariner-72-osworld-completion-62-fail-on-loginwhic-mr215ujx)"
+  ],
+  "design_plan": "rng(seed=42)->layout=cinematic-centered; AIDA=pass; hero_math:max_width=1120px lines=2-3; bento_density:grid-auto-flow:dense verified; label_sweep=all competitors named; button_contrast=AA; sources=linked; animations=guarded",
+  "generated_at": "2026-07-03T01:25:27.044924+00:00",
+  "headline": "Super vs Folk \u2014 Personal AI Agents for Real Computer Work",
+  "site_brief": {
+    "audience": "people comparing Super with Folk",
+    "competitor": "Folk",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Folk. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Folk AI agent",
+      "Folk AI assistant",
+      "Folk automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-folk",
+    "title": "Super vs Folk"
+  },
+  "summary": "A fair comparison for people evaluating Folk against Super. Folk is a capable, developer\u2011oriented autonomous agent framework. Super is purpose\u2011built for people who want a personal AI agent that actually operates computers and reuses a computer-use cache so repeated workflows get faster and cheaper."
+}
